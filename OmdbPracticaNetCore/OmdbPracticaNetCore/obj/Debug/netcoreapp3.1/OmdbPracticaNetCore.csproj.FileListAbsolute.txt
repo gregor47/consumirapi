@@ -90,3 +90,15 @@ C:\Users\Gregory\omdbrepos\OmdbPracticaNetCore\OmdbPracticaNetCore\bin\Debug\net
 C:\Users\Gregory\omdbrepos\OmdbPracticaNetCore\OmdbPracticaNetCore\obj\Debug\netcoreapp3.1\OmdbPracticaNetCore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Gregory\omdbrepos\OmdbPracticaNetCore\OmdbPracticaNetCore\obj\Debug\netcoreapp3.1\OmdbPracticaNetCore.dll
 C:\Users\Gregory\omdbrepos\OmdbPracticaNetCore\OmdbPracticaNetCore\obj\Debug\netcoreapp3.1\OmdbPracticaNetCore.pdb
+C:\Users\Gregory\omdbrepos\OmdbPracticaNetCore\OmdbPracticaNetCore\bin\Debug\netcoreapp3.1\OmdbPracticaNetCore.Views.dll
+C:\Users\Gregory\omdbrepos\OmdbPracticaNetCore\OmdbPracticaNetCore\bin\Debug\netcoreapp3.1\OmdbPracticaNetCore.Views.pdb
+C:\Users\Gregory\omdbrepos\OmdbPracticaNetCore\OmdbPracticaNetCore\obj\Debug\netcoreapp3.1\OmdbPracticaNetCore.RazorAssemblyInfo.cache
+C:\Users\Gregory\omdbrepos\OmdbPracticaNetCore\OmdbPracticaNetCore\obj\Debug\netcoreapp3.1\OmdbPracticaNetCore.RazorAssemblyInfo.cs
+C:\Users\Gregory\omdbrepos\OmdbPracticaNetCore\OmdbPracticaNetCore\obj\Debug\netcoreapp3.1\OmdbPracticaNetCore.TagHelpers.input.cache
+C:\Users\Gregory\omdbrepos\OmdbPracticaNetCore\OmdbPracticaNetCore\obj\Debug\netcoreapp3.1\OmdbPracticaNetCore.TagHelpers.output.cache
+C:\Users\Gregory\omdbrepos\OmdbPracticaNetCore\OmdbPracticaNetCore\obj\Debug\netcoreapp3.1\OmdbPracticaNetCore.RazorCoreGenerate.cache
+C:\Users\Gregory\omdbrepos\OmdbPracticaNetCore\OmdbPracticaNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\Gregory\omdbrepos\OmdbPracticaNetCore\OmdbPracticaNetCore\obj\Debug\netcoreapp3.1\OmdbPracticaNetCore.RazorTargetAssemblyInfo.cs
+C:\Users\Gregory\omdbrepos\OmdbPracticaNetCore\OmdbPracticaNetCore\obj\Debug\netcoreapp3.1\OmdbPracticaNetCore.Views.pdb
+C:\Users\Gregory\omdbrepos\OmdbPracticaNetCore\OmdbPracticaNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Gregory\omdbrepos\OmdbPracticaNetCore\OmdbPracticaNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\response.cshtml.g.cs

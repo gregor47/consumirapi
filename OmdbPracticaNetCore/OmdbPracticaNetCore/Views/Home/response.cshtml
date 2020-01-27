@@ -1,0 +1,26 @@
+﻿@Model Movies
+@{
+    ViewData["Title"] = "Resultado";
+}
+<h1>Haciendo uso de OmdbApi</h1>
+<h1>Bienvenido, aqui puede consultar sus peliculas favoritas</h1>
+<hr />
+<h2>Busca tu pelicula favorita por nombre</h2>
+<br />
+
+<form method="post" action="~/Home/response">
+    <input type="text" id="nombre" name="nombre" value=" " />
+    <button type="submit">Buscar</button>
+</form>
+
+<label>Salida</label>
+<hr />
+
+<img src="@ViewData["img"]" width="15%" height="auto" style="float:left; margin-right:20px;" />
+<h1>@ViewData["titulo"]</h1>
+<h4>Sinopsis</h4>
+<p>@ViewData["info"]</p>
+<h4>Actores</h4>
+<p>@ViewData["Actors"]</p>
+<hr />
+

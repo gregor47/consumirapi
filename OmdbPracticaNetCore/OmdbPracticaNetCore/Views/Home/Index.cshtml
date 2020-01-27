@@ -1,0 +1,16 @@
+﻿@Model Movies
+@{
+    ViewData["Title"] = "Home";
+}
+<h1>Haciendo uso de OmdbApi</h1>
+<h1>Bienvenido, aqui puede consultar sus peliculas favoritas</h1>
+<hr />
+<h2>Busca tu pelicula favorita por nombre</h2>
+<br />
+
+<form method="post" action="~/Home/response">
+    <input type="text" id="nombre" name="nombre" value=" " />
+    <button type="submit">Buscar</button>
+</form>
+
+
